@@ -1,0 +1,28 @@
+{
+  "name": "2kevink-2018q3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/2kevink-2018Q3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/2kevink-2018Q3/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/2kevink-2018Q3#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "path": "^0.12.7",
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
